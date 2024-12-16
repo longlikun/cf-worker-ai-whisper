@@ -44,7 +44,7 @@ export async function POST(request: NextRequest) {
         );
 
         console.log("Cloudflare AI response:", cloudflareResponse);
-        // 调用 Cloudflare AI Whisper API
+        // 或者调用 Cloudflare AI Whisper API
         //   const cloudflareResponse = await fetch(
         //     `https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/ai/run/@cf/openai/whisper`,
 

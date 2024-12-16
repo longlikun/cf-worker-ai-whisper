@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`c3`](https://developers.cloudflare.com/pages/get-started/c3).
 
+使用cloudflare 的worker ai 运行whisper来实现语音转文字
+
 ## Getting Started
 
 First, run the development server:
